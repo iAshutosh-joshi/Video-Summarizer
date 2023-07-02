@@ -1,0 +1,15 @@
+.header-class{
+    width: 100%;
+    font-size: 70px;
+    background-color: mediumslateblue;
+    color: whitesmoke;
+    font-family:monospace;
+    text-align: center;
+}
+.hr-class{
+    margin-left:20% !important;
+    height: 5px;
+    background: mediumslateblue;
+    margin: 20px 0;
+    width: 60%;
+}

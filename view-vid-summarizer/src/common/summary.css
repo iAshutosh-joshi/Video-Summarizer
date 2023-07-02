@@ -1,0 +1,15 @@
+.summary-textbox-class{
+    background-color: whitesmoke;
+    width: 50%;
+    border: 5px solid mediumslateblue;
+    padding: 50px;
+    margin-left: 25%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.summary-header{
+    margin-left: 25%;
+    color: mediumslateblue;
+    font-size: 30px;
+    font-family: monospace;
+}
